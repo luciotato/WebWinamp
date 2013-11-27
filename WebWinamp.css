@@ -1,0 +1,191 @@
+PRE {
+	font-family: 				Lucida Console, Courier;
+	}
+TT {
+	font-family: 				Lucida Console, Courier;
+	}
+A:link {
+	color: 						#CCFFFF;
+	text-decoration: 			none;
+	}
+A:visited {
+	color: 						#CCFFFF;
+	text-decoration: 			none;
+	}
+
+A:hover {
+	color: 						#99FFFF;
+	text-decoration: 			underline;
+	}
+
+BODY.loading {
+	background-color: 			#667788;
+	color: 						#ffffff;
+	text-align:					center:
+	vertical-align:				center:
+	font-size:					250%;
+	font-weight:				bold;
+	font-family:				Verdana,Arial;
+	}
+BODY.WWWinamp_left {
+	color: 						#ffffff;
+	overflow-X:					hidden;
+	background-color: 			#667788;
+	scrollbar-3dlight-color: 	#ffffff;
+	scrollbar-highlight-color: 	#335577;
+	scrollbar-face-color: 		#335577;
+	scrollbar-shadow-color: 	#335577;
+	scrollbar-darkshadow-color: #FFFFFF;
+	scrollbar-arrow-color: 		#FFFFFF;
+	scrollbar-track-color: 		#113355;
+	}
+BODY.WWWinamp_right {
+	color: 						#ffffff;
+	overflow-X:					hidden;
+ 	background-color: 			#223344;
+	scrollbar-3dlight-color: 	#334455;
+	scrollbar-highlight-color: 	#8899AA;
+	scrollbar-face-color: 		#334455;
+	scrollbar-shadow-color: 	#8899AA;
+	scrollbar-darkshado	w-color: #334455;
+	scrollbar-arrow-color: 		#8899AA;
+	scrollbar-track-color: 		#001122;
+	}
+BODY.WWWinamp_control {
+	overflow-X:					hidden;
+	overflow-Y:					hidden;
+	padding:					0px;
+	margin:						0px;
+ 	background: 				#666666 url(/controls.bg.gif);
+	color:						#000000;
+	}
+hr {
+	color: #000000;
+	}
+img {
+	border: #FFFF00;
+	}
+TABLE.l {
+	border:						0px;
+	padding:					5px;
+	border-collapse;			collapse;
+	width: 100%;
+	}
+
+TD.ld {
+	padding:					1px;
+	color:						#CCCCCC;
+	background:					#445566;
+	font-family:				Verdana,Arial;
+	font-size:					70%;
+	font-weight:				bold;
+	vertical-align:				center;
+	}
+TD.ca {
+	vertical-align:				top;
+	width: 1px;
+	}
+
+TD.l {
+	vertical-align:				top;
+	font-size: 					80%;
+	width:						100%;
+	}
+
+TD {
+	font-family: 				Verdana,Arial; 
+	font-size: 					90%;
+	vertical-align:				middle;
+	}
+TD.WWWinamp_left {
+	background-color: 			#224466;
+	}
+TD.WWWinamp_right {
+ 	background-color: 			#000000;
+	}
+
+INPUT {
+	background-color: 			#445566; 
+	font-family: 				Verdana,Arial; 
+	font-size: 					75%; 
+	font-weight: 				bold;
+	color: 					#CCFFFF;
+	border: 					1px #FFFFFF solid; 
+	Height: 		19px ;
+	}
+
+.button {
+	font-family: 				Verdana,Arial; 
+	font-size: 					75%; 
+	font-weight: 				bold;
+	background-color: 			#608080; 
+	color: 					#d0d0d0; 
+	border: 					1px solid; 
+	border-color: 				#ffffff  #ffffff  #C0c0c0 #ffffff  ; 
+	Height: 					20px ; 
+	Width: 					72px ; 
+	}
+
+.buttonbig {
+	font-family: 				Verdana,Arial; 
+	font-size: 					75%; 
+	font-weight: 				bold;
+	background-color: 			#608080; 
+	color: 					#d0d0d0; 
+	border: 					1px solid; 
+	border-color: 				#ffffff  #ffffff  #C0c0c0 #ffffff  ; 
+	Height: 					20px ; 
+	Width: 					96px ; 
+	}
+
+.buttonred {
+	font-family: 				Verdana,Arial; 
+	font-size: 					75%; 
+	font-weight: 				bold;
+	background-color: 			#b08080; 
+	color: 					#ffffff; 
+	border: 					1px #FFFFFF solid; 
+	border-color: 				#ffffff  #ffffff  #C0c0c0 #ffffff  ; 
+	Height: 					20px ; 
+	Width: 					72px ; 
+	}
+
+.search {
+	font-family: 				Verdana,Arial; 
+	font-size: 					80%;
+	font-weight:				bold;
+	}
+.footer {
+	font-family: 				Verdana,Arial; 
+	font-size: 					60%;
+	}
+.Current {
+	vertical-align:				top;
+	}
+.CurrentBox {
+	background-color: 			#113355;
+	border: 					1px solid;
+	padding:					4px;
+	margin-left: 20px;
+	margin-right: 3px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	}
+.OuterCurrentBox {
+	border: 1px none;
+	padding:					4px;
+	}
+.CurrentSong {
+	color: 						#FFFFFF;
+	}
+.inactive {
+	color:						#999999;
+	}
+
+.Label {
+	font-family: 	Verdana,Arial; 
+	font-size: 	75%; 
+	font-weight: 	bold;
+	color: 		#CCFFFF;
+	vertical-align:	30%;
+	}
